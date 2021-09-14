@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Neve!
+- 👀 I’m interested in informatic security.
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on os projects.
+- 📫 How to reach me: neovayer@tuta.io
